@@ -35,7 +35,7 @@
 
 ## About The Project
 
-[product-screenshot](https://mern-tiktok-sample.web.app/)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 A Tik-Tok-like web app running on a web server and fetching Data from live web API.
 The frontEnd is deployed to Google Firebase and backend server scripting is deployed on Heroku.
